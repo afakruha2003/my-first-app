@@ -1,0 +1,8 @@
+a{
+    color: #ace0f9 !important;
+}
+
+a:hover{
+    background-color: #ace0f9;
+    color: #171b20 !important;
+}
